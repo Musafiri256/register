@@ -1,0 +1,16 @@
+{
+  "description": "Official website for Action of Hope Foundation in Nansana, Uganda",
+  "domain": "owns.it.com",
+  "subdomain": "actionforhope",
+  "owner": {
+    "repo": "https://github.com/Musafiri256/register",
+    "email": "oneloveatheart1990@gmail.com"
+  },
+  "record": {
+    "CNAME": "672783def00a0743.vercel-dns-017.com.",
+    "TXT": [
+      "vc-domain-verify=actionforhope.owns.it.com,aa2ff52aff6027e2b798"
+    ]
+  },
+  "proxied": false
+}
